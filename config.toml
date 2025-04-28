@@ -1,0 +1,47 @@
+themesDir = "../../"
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Michele Villa"
+theme="archie"
+#copyright = "© Athul"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+publishDir = "docs"
+
+
+[params]
+	mode="auto"
+	useCDN=false
+	subtitle = "IKERBASQUE and Marie-Curie fellow at UPV/EHU, Bilbao."
+	mathjax = true # enable MathJax support
+	katex = true # enable KaTeX support
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Research"
+url = "/research"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Teaching"
+url = "/teaching"
+weight = 4
+
+[[menu.main]]
+name = "GMTPyrenees"
+url = "/workshop"
+weight = 5
+
+
+

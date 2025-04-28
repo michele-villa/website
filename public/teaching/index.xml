@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on Michele Villa</title>
+    <link>http://localhost:32831/teaching/</link>
+    <description>Recent content in Teachings on Michele Villa</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Apr 2025 19:27:10 +0200</lastBuildDate>
+    <atom:link href="http://localhost:32831/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:32831/teaching/teaching/</link>
+      <pubDate>Mon, 28 Apr 2025 19:27:10 +0200</pubDate>
+      <guid>http://localhost:32831/teaching/teaching/</guid>
+      <description>&lt;p&gt;Here I will add the teaching&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
