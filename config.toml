@@ -1,5 +1,5 @@
 themesDir = "../../"
-baseURL = "https://example.com"
+baseURL = "https://michele-villa.github.io/website/"
 languageCode = "en-us"
 title = "Michele Villa"
 theme="archie"
