@@ -5,7 +5,7 @@ draft: false
 ---
 
 * Autumn 2023. Master course **Biodiversity from the mathematical point of view**, at the University of
-Oulu.
+Oulu, Finland.
 * Spring 2022. Supervision of the Master project of Paul Le-Breton, visiting from ENS Paris-Saclay.
 * Spring 2021 Teaching assistant for Fourier Analysis (online). Course for Master/PhD students, two-
 hours workshops. University of Jyväskylä.

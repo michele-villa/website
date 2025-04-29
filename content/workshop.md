@@ -7,11 +7,12 @@ toc: true
 
 A small workshop for young researchers in GMT and neighbouring fields, co-organised between the mathematics departments of EHU/UPV (Bilbao) and UAB (Barcelona) 
 
+{{< figure src="./sheep.jpg" title="Sheep!" >}}
 
 ```
 Date and location
 
-		From June 23rd to 27th, 2025
+	From June 23rd to 27th, 2025
 		Sant Pau de Seguries, Catalunya.  
 ```
 
@@ -19,7 +20,7 @@ Date and location
 ```
 Organised by
 
-		M. Mourgoglou, C. Puliatti, X. Tolsa and M. Villa
+	M. Mourgoglou, C. Puliatti, X. Tolsa and M. Villa
 
 ```
 
@@ -48,5 +49,9 @@ A few words on the "selection principle" behind the list of participants: as you
 
 ## Organisation
 
+TBA
+
 ## Logistics
+
+TBA
 

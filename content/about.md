@@ -6,8 +6,8 @@ aliases = ["about-us","about-hugo","contact"]
 author = "Michele"
 +++
 
-Here I will add my CV
 
-
+[Open PDF](./cvvilla.pdf)
+Updated Dec. 2024.
 
 
