@@ -23,7 +23,7 @@ rectifiable sets.* ArXiv preprint, 2023.
 ## Published articles
 
 * Carleson’s $\varepsilon^2$-conjecture in higher dimensions.
-> with with I. Fleschler and X. Tolsa. Accepted by **Invent. Math.** [arXiv](https://arxiv.org/abs/2310.12316)
+> with I. Fleschler and X. Tolsa. Accepted by **Invent. Math.** [arXiv](https://arxiv.org/abs/2310.12316)
 
 $~$
 
@@ -42,7 +42,7 @@ $$~$$
 	
 	
 * Structure of sets with nearly maximal Favard length
-> with A. Chang, D. Dąbrowski and T. Orponen T.  **Analysis & PDEs**. [arXiv](https://arxiv.org/abs/2203.01279).	
+> with A. Chang, D. Dąbrowski and T. Orponen.  **Analysis & PDEs**. [arXiv](https://arxiv.org/abs/2203.01279).	
 
 $$~$$
 
