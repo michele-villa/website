@@ -7,8 +7,7 @@ draft: false
 
 ## Preprints
 
-> with I. Fleschler and X. Tolsa. *Carleson’s $\varepsilon^2$-conjecture in higher dimensions.* ArXiv
-preprint, 2023.
+See my [arXiv](https://arxiv.org/search/math?query=Villa%2C+Michele&searchtype=author&abstracts=hide&order=-announced_date_first&size=50) preprints. 
 
 > with I. Fleschler and X. Tolsa. *The Alt-Caffarelli-Friedman monotonicity formula
 and Carleson’s $\varepsilon^2$-conjecture in higher dimensions*. ArXiv preprint, 2023.
@@ -21,6 +20,9 @@ rectifiable sets.* ArXiv preprint, 2023.
 
 ## Published articles
 
+* Carleson’s $\varepsilon^2$-conjecture in higher dimensions.
+> with with I. Fleschler and X. Tolsa. Accepted by **Invent. Math.** [arXiv](https://arxiv.org/abs/2310.12316)
+
 
  * Ricci curvature bounded below and uniform rectifiability.
  > with M. Hyde and I.Y. Violo. Accepted by **Ann. Fenn. Math.** [arXiv](https://arxiv.org/abs/2311.09907)
@@ -31,7 +33,7 @@ $~$
 
 * Analytic capacity of sets with plenty of big projections
 and Vitushkin conjecture.
-> with D. Dąbrowski.  Accepted by **Trans. Amer. Math. Soc.** [arXiv]()
+> with D. Dąbrowski.  Accepted by **Trans. Amer. Math. Soc.** [arXiv](https://arxiv.org/abs/2204.05804)
 	
 $$~$$	
 	
