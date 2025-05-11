@@ -29,7 +29,7 @@ rectifiable sets.* ArXiv preprint, 2023.
 $~$
 
  * Ricci curvature bounded below and uniform rectifiability.
- > with M. Hyde and I.Y. Violo. Accepted by **Ann. Fenn. Math.**   
+ > with M. Hyde and I.Y. Violo. Published in **Ann. Fenn. Math.**   
  > [arXiv](https://arxiv.org/abs/2311.09907) | [article](https://doi.org/10.54330/afm.153338)
 
 
@@ -38,7 +38,7 @@ $~$
 
 * Analytic capacity of sets with plenty of big projections
 and Vitushkin conjecture.
-> with D. Dąbrowski. Accepted by **Trans. Amer. Math. Soc.**    
+> with D. Dąbrowski. Published in **Trans. Amer. Math. Soc.**    
 > [arXiv](https://arxiv.org/abs/2204.05804) | [article](https://doi.org/10.1090/tran/9265)
 	
 $$~$$	
