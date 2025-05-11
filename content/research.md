@@ -23,12 +23,14 @@ rectifiable sets.* ArXiv preprint, 2023.
 ## Published articles
 
 * Carleson’s $\varepsilon^2$-conjecture in higher dimensions.
-> with I. Fleschler and X. Tolsa. Accepted by **Invent. Math.** [arXiv](https://arxiv.org/abs/2310.12316)
+> with I. Fleschler and X. Tolsa. Accepted by **Invent. Math.**  
+> [arXiv](https://arxiv.org/abs/2310.12316)
 
 $~$
 
  * Ricci curvature bounded below and uniform rectifiability.
- > with M. Hyde and I.Y. Violo. Accepted by **Ann. Fenn. Math.** [arXiv](https://arxiv.org/abs/2311.09907)
+ > with M. Hyde and I.Y. Violo. Accepted by **Ann. Fenn. Math.**   
+ > [arXiv](https://arxiv.org/abs/2311.09907) | [article](https://doi.org/10.54330/afm.153338)
 
 
 $~$
@@ -36,24 +38,28 @@ $~$
 
 * Analytic capacity of sets with plenty of big projections
 and Vitushkin conjecture.
-> with D. Dąbrowski.  Accepted by **Trans. Amer. Math. Soc.** [arXiv](https://arxiv.org/abs/2204.05804)
+> with D. Dąbrowski. Accepted by **Trans. Amer. Math. Soc.**    
+> [arXiv](https://arxiv.org/abs/2204.05804) | [article](https://doi.org/10.1090/tran/9265)
 	
 $$~$$	
 	
 	
 * Structure of sets with nearly maximal Favard length
-> with A. Chang, D. Dąbrowski and T. Orponen.  **Analysis & PDEs**. [arXiv](https://arxiv.org/abs/2203.01279).	
+> with A. Chang, D. Dąbrowski and T. Orponen. **Analysis & PDEs**.   
+> [arXiv](https://arxiv.org/abs/2203.01279) | [article](10.2140/apde.2024.17.1473)	
 
 $$~$$
 
 * Integrability of orthogonal projections, and
 applications to Furstenberg sets
-> with  D. Dąbrowski and T. Orponen. **Adv. Math.** [arXiv](https://arxiv.org/abs/2107.04471)
+> with  D. Dąbrowski and T. Orponen. **Adv. Math.**     
+> [arXiv](https://arxiv.org/abs/2107.04471) | [article](https://doi.org/10.1016/j.aim.2022.108567)
 
 $$~$$
 
 * Sub-elliptic boundary value problems in flag domains
-> with T. Orponen. **Adv. Calc. Var.**
+> with T. Orponen. **Adv. Calc. Var.**   
+> [article](https://doi.org/10.1515/acv-2021-0077)
 
 $$~$$
 
