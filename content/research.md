@@ -5,9 +5,11 @@ draft: false
 
 ---
 
+See my [arXiv](https://arxiv.org/search/math?query=Villa%2C+Michele&searchtype=author&abstracts=hide&order=-announced_date_first&size=50) preprints. Here's my [ResearchGate](https://www.researchgate.net/profile/Michele-Villa?ev=hdr_xprf) page.
+
+
 ## Preprints
 
-See my [arXiv](https://arxiv.org/search/math?query=Villa%2C+Michele&searchtype=author&abstracts=hide&order=-announced_date_first&size=50) preprints. Here's my [ResearchGate](https://www.researchgate.net/profile/Michele-Villa?ev=hdr_xprf) page.
 
 > with I. Fleschler and X. Tolsa. *The Alt-Caffarelli-Friedman monotonicity formula
 and Carleson’s $\varepsilon^2$-conjecture in higher dimensions*. ArXiv preprint, 2023.
