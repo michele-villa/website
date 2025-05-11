@@ -45,7 +45,7 @@ $$~$$
 
 * Integrability of orthogonal projections, and
 applications to Furstenberg sets
-> with  D. Dąbrowski and T. Orponen. **Adv. Math.**
+> with  D. Dąbrowski and T. Orponen. **Adv. Math.** [arXiv](https://arxiv.org/abs/2107.04471)
 
 $$~$$
 
