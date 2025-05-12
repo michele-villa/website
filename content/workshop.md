@@ -2,12 +2,16 @@
 title: "Workshop"
 date: 2025-04-28T21:00:10+02:00
 draft: false
-toc: true
+
 ---
 
 A small workshop for young researchers in GMT and neighbouring fields, co-organised between the mathematics departments of EHU/UPV (Bilbao) and UAB (Barcelona) 
 
+$~$
+
 {{< figure src="./sheep.jpg" title="Sheep!" >}}
+
+$~$
 
 ```
 Date and location
@@ -77,13 +81,14 @@ $~$
 $~$
 
 * Departures
-> Same as above. I reccommend using the bus. Check the timetable [here](https://www.teisa-bus.com/ca/).
+> Same as above. I reccommend using the bus. Check the timetable [here](https://www.teisa-bus.com/).
 
 ``` 
 	Saturday 28th. One option:
 	
-		Sant Pau de Seguries   ->    Barcelona
-			7.19			    9.25
+		Sant Pau de Seguries   ->   Barcelona
+		
+			7.19			   		   9.25
 			
 ```
 
@@ -94,8 +99,8 @@ $~$
 
 		Sant Pau 	 -> 	     Barcelona
 		
-		   16.34			18.30
-		   17.34			19.30
+		   16.34					18.30
+		   17.34					19.30
 ```		   
 		   
 
